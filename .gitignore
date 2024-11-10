@@ -1,1 +1,5 @@
-/target
+target/
+.vscode/
+build/
+Cargo.lock
+Makefile
